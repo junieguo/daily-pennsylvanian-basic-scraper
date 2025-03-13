@@ -136,17 +136,6 @@ But it is important to use it responsibly and ethically. Here are some guideline
 
 10. Continuously re-evaluate your scraping program against applicable laws and ethical principles.
 
-## Modifications
-I modified the script to scrape multiple headlines from the **Featured**, **News**, **Sports**, and **Overall** sections of **The Daily Pennsylvanian** homepage using unique CSS class names for each section.
-
-- **Specific Sections Using CSS Classes**:  
-  To differentiate between sections like **Featured**, **News**, **Sports**, and **Overall**, I inspected the HTML structure of the webpage and identified unique CSS classes assigned to the headline links in each section. This allows the scraper to target the right elements:
-  - **Featured**: Class `frontpage-link standard-link`
-  - **News**: Class `frontpage-link medium-link newstop`
-  - **Sports**: Class `frontpage-link medium-link font-regular`
-  - **Overall**: Class `frontpage-link large-link`
- 
-
 ## Github Actions Schedule 
 
 The cron expression `0 20 * * *` means the job runs at 8:00 PM UTC every day. The five fields in the cron expression are as follows:
@@ -157,3 +146,15 @@ The cron expression `0 20 * * *` means the job runs at 8:00 PM UTC every day. Th
 - Day of week: `*` (every day of the week)
 
 This schedule ensures the task is executed once daily at 8:00 PM UTC.
+
+## Modifications
+I modified the script to scrape multiple headlines from the **Featured**, **News**, **Sports**, and **Overall** sections of **The Daily Pennsylvanian** homepage using unique CSS class names for each section.
+
+- **Specific Sections Using CSS Classes**:  
+  To differentiate between sections like **Featured**, **News**, **Sports**, and **Overall**, I inspected the HTML structure of the webpage and identified unique CSS classes assigned to the headline links in each section. This allows the scraper to target the right elements:
+  - **Featured**: Class `frontpage-link standard-link`
+  - **News**: Class `frontpage-link medium-link newstop`
+  - **Sports**: Class `frontpage-link medium-link font-regular`
+  - **Overall**: Class `frontpage-link large-link`
+ 
+I modified the Github Actions Schedule to run twice a day at 8AM and 8PM UTC
