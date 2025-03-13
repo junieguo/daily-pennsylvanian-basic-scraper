@@ -145,3 +145,15 @@ I modified the script to scrape multiple headlines from the **Featured**, **News
   - **News**: Class `frontpage-link medium-link newstop`
   - **Sports**: Class `frontpage-link medium-link font-regular`
   - **Overall**: Class `frontpage-link large-link`
+ 
+
+## Github Actions Schedule 
+
+The cron expression `0 20 * * *` means the job runs at 8:00 PM UTC every day. The five fields in the cron expression are as follows:
+- Minute: `0` (at the 0th minute)
+- Hour: `20` (at 8:00 PM UTC)
+- Day of month: `*` (every day of the month)
+- Month: `*` (every month)
+- Day of week: `*` (every day of the week)
+
+This schedule ensures the task is executed once daily at 8:00 PM UTC.
