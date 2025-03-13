@@ -135,3 +135,13 @@ But it is important to use it responsibly and ethically. Here are some guideline
 9. Document your scraping process thoroughly for replicability, transparency and accountability.
 
 10. Continuously re-evaluate your scraping program against applicable laws and ethical principles.
+
+## Modifications
+I modified the script to scrape multiple headlines from the **Featured**, **News**, **Sports**, and **Overall** sections of **The Daily Pennsylvanian** homepage using unique CSS class names for each section.
+
+- **Specific Sections Using CSS Classes**:  
+  To differentiate between sections like **Featured**, **News**, **Sports**, and **Overall**, I inspected the HTML structure of the webpage and identified unique CSS classes assigned to the headline links in each section. This allows the scraper to target the right elements:
+  - **Featured**: Class `frontpage-link standard-link`
+  - **News**: Class `frontpage-link medium-link newstop`
+  - **Sports**: Class `frontpage-link medium-link font-regular`
+  - **Overall**: Class `frontpage-link large-link`
