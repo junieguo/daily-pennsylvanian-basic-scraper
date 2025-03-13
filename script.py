@@ -29,10 +29,23 @@ def scrape_data_point():
 
     if req.ok:
         soup = bs4.BeautifulSoup(req.text, "html.parser")
-        target_element = soup.find("a", class_="frontpage-link")
-        data_point = "" if target_element is None else target_element.text
-        loguru.logger.info(f"Data point: {data_point}")
-        return data_point
+
+        target_elements = [
+            {"section": "Featured", "headline": soup.find("a", class_="frontpage-link standard-link")},
+            {"section": "News", "headline": soup.find("a", class_="frontpage-link medium-link newstop")},
+            {"section": "Sports", "headline": soup.find("a", class_="frontpage-link medium-link font-regular")},
+            {"section": "Overall", "headline": soup.find("a", class_="frontpage-link large-link")}
+        ]
+
+        data_points = [
+            {"section": element["section"], "headline": element["headline"].text.strip() if element["headline"] else ""}
+            for element in target_elements
+        ]
+        
+        for idx, data_point in enumerate(data_points):
+            loguru.logger.info(f"Data point {idx + 1} ({data_point['section']}): {data_point['headline']}")
+        
+        return data_points
 
 
 if __name__ == "__main__":
