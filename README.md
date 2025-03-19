@@ -157,4 +157,4 @@ I modified the script to scrape multiple headlines from the **Featured**, **News
   - **Sports**: Class `frontpage-link medium-link font-regular`
   - **Overall**: Class `frontpage-link large-link`
  
-I modified the Github Actions Schedule to run twice a day at 8AM and 8PM UTC
+I modified the Github Actions Schedule to run once a day at 5PM UTC
