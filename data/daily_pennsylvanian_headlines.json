@@ -272,5 +272,28 @@
         }
       ]
     ]
+  ],
+  "2025-3-21": [
+    [
+      "2025-03-21 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Annenberg School lecturers' contracts not renewed"
+        },
+        {
+          "section": "News",
+          "headline": "Penn community rallies against recent federal actions, University response"
+        },
+        {
+          "section": "Sports",
+          "headline": "Here\u2019s what to know about former Penn swimmer Lia Thomas"
+        },
+        {
+          "section": "Overall",
+          "headline": "Annenberg School will not renew part-time lecturers\u2019 contracts, citing financial uncertainty"
+        }
+      ]
+    ]
   ]
 }
