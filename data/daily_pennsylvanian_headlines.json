@@ -387,5 +387,28 @@
         }
       ]
     ]
+  ],
+  "2025-3-26": [
+    [
+      "2025-03-26 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Penn faculty receive stop work orders"
+        },
+        {
+          "section": "News",
+          "headline": "Federal funding for Penn Museum at risk as Trump eliminates agency supporting libraries, museums"
+        },
+        {
+          "section": "Sports",
+          "headline": "Fran McCaffery 'nearing a deal' to be named new Penn men\u2019s basketball head coach, per report"
+        },
+        {
+          "section": "Overall",
+          "headline": "Jameson says Penn researchers received \u2018stop work orders\u2019 after $175 million federal funding freeze"
+        }
+      ]
+    ]
   ]
 }
