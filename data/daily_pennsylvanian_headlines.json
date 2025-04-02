@@ -548,5 +548,28 @@
         }
       ]
     ]
+  ],
+  "2025-4-2": [
+    [
+      "2025-04-02 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Attorney General seeks death penalty for Mangione"
+        },
+        {
+          "section": "News",
+          "headline": "Penn administrators, faculty discuss innovation opportunities at Penn AI launch event"
+        },
+        {
+          "section": "Sports",
+          "headline": "\u2018This is my sport too\u2019: 2022 Penn graduate Lia Thomas speaks at forum for transgender youth"
+        },
+        {
+          "section": "Overall",
+          "headline": "U.S. attorney general orders prosecutors to pursue death penalty for Penn graduate Luigi Mangione"
+        }
+      ]
+    ]
   ]
 }
