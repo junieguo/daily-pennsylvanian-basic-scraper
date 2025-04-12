@@ -778,5 +778,28 @@
         }
       ]
     ]
+  ],
+  "2025-4-12": [
+    [
+      "2025-04-12 01:10PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Penn, Ivy League under investigation for price-fixing"
+        },
+        {
+          "section": "News",
+          "headline": "Trump memo revokes security clearances of former Penn lecturer, all University affiliates"
+        },
+        {
+          "section": "Sports",
+          "headline": "\u2018No prouder moment\u2019: Fran McCaffery welcomed as Penn men\u2019s basketball coach in press conference"
+        },
+        {
+          "section": "Overall",
+          "headline": "Congressional Republicans launch investigation into Penn, Ivy League, alleging price-fixing scheme"
+        }
+      ]
+    ]
   ]
 }
