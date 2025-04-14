@@ -824,5 +824,28 @@
         }
       ]
     ]
+  ],
+  "2025-4-14": [
+    [
+      "2025-04-14 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Incoming students react to funding cuts"
+        },
+        {
+          "section": "News",
+          "headline": "Trump memo revokes security clearances of former Penn lecturer, all University affiliates"
+        },
+        {
+          "section": "Sports",
+          "headline": "Former five-star recruit TJ Power commits to Penn men\u2019s basketball"
+        },
+        {
+          "section": "Overall",
+          "headline": "Incoming Penn students express concern, confusion over Trump\u2019s $175 million funding freeze"
+        }
+      ]
+    ]
   ]
 }
