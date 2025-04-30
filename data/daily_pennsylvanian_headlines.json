@@ -1146,5 +1146,28 @@
         }
       ]
     ]
+  ],
+  "2025-4-30": [
+    [
+      "2025-04-30 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Penn Jewish community reacts to federal actions"
+        },
+        {
+          "section": "News",
+          "headline": "Wharton School claims sole possession of top spot on 2025 U.S. News Best Business Schools ranking"
+        },
+        {
+          "section": "Sports",
+          "headline": "Penn football\u2019s Shiloh Means invited to NFL mini-camp"
+        },
+        {
+          "section": "Overall",
+          "headline": "Jewish members of the Penn community react to recent federal actions targeting higher education"
+        }
+      ]
+    ]
   ]
 }
