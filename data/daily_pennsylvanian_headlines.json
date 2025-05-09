@@ -1353,5 +1353,28 @@
         }
       ]
     ]
+  ],
+  "2025-5-9": [
+    [
+      "2025-05-09 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Faculty voice concerns with writing seminars"
+        },
+        {
+          "section": "News",
+          "headline": "Liz Magill, Scott Bok discuss Penn \u2018crisis\u2019 in first joint public appearance since resignations"
+        },
+        {
+          "section": "Sports",
+          "headline": "Top five biggest moments from the 2025 Penn Relays"
+        },
+        {
+          "section": "Overall",
+          "headline": "Department of Education opens investigation into Penn over \u2018inaccurate\u2019 foreign donation disclosures"
+        }
+      ]
+    ]
   ]
 }
