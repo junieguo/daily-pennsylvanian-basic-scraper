@@ -1675,5 +1675,28 @@
         }
       ]
     ]
+  ],
+  "2025-5-23": [
+    [
+      "2025-05-23 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Faculty voice concerns with writing seminars"
+        },
+        {
+          "section": "News",
+          "headline": "Penn Med, CHOP researchers treat infant with world's first personalized gene-editing therapy"
+        },
+        {
+          "section": "Sports",
+          "headline": "DP Sports\u2019 2024-25 end-of-year awards"
+        },
+        {
+          "section": "Overall",
+          "headline": "Penn Medicine scrubs DEI webpages amid escalating federal crackdown"
+        }
+      ]
+    ]
   ]
 }
