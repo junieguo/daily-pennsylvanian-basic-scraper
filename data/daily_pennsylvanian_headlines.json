@@ -1859,5 +1859,28 @@
         }
       ]
     ]
+  ],
+  "2025-5-31": [
+    [
+      "2025-05-31 01:10PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Penn celebrates the Class of 2025"
+        },
+        {
+          "section": "News",
+          "headline": "State Department announces 'aggressive' visa revocations for Chinese students at U.S. universities"
+        },
+        {
+          "section": "Sports",
+          "headline": "Former Penn track runner Isabella Whittaker returns to compete in Grand Slam Track"
+        },
+        {
+          "section": "Overall",
+          "headline": "Former Penn President Liz Magill earned $2.3 million in year that led up to her resignation"
+        }
+      ]
+    ]
   ]
 }
