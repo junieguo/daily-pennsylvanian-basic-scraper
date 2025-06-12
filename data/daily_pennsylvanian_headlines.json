@@ -2135,5 +2135,28 @@
         }
       ]
     ]
+  ],
+  "2025-6-12": [
+    [
+      "2025-06-12 01:12PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "Quaker Nation | Penn track and field from Jacksonville to Philadelphia"
+        },
+        {
+          "section": "News",
+          "headline": "Penn urges impacted international students to immediately return to U.S. as Trump travel ban looms"
+        },
+        {
+          "section": "Sports",
+          "headline": "Grand Slam Track series sees historic performances at Franklin Field"
+        },
+        {
+          "section": "Overall",
+          "headline": "Penn joins amicus brief supporting Harvard in lawsuit over federal research funding freeze"
+        }
+      ]
+    ]
   ]
 }
