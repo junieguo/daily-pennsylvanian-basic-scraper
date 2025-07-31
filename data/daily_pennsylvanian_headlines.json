@@ -3262,5 +3262,28 @@
         }
       ]
     ]
+  ],
+  "2025-7-31": [
+    [
+      "2025-07-31 01:15PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "Quaker Nation | Pottruck's $20 million donation"
+        },
+        {
+          "section": "News",
+          "headline": "Meet six Fulbright grant recipients from Penn hoping to \u2018explore the world\u2019 through research"
+        },
+        {
+          "section": "Sports",
+          "headline": "David Pottruck makes $20 million donation to kickstart Penn wrestling philanthropy campaign"
+        },
+        {
+          "section": "Overall",
+          "headline": "Penn biomedical faculty urge reversal of \u2018short-sighted\u2019 Title IX settlement in letter to Jameson"
+        }
+      ]
+    ]
   ]
 }
