@@ -3791,5 +3791,28 @@
         }
       ]
     ]
+  ],
+  "2025-8-24": [
+    [
+      "2025-08-24 01:10PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Your guide to Penn"
+        },
+        {
+          "section": "News",
+          "headline": "How two years of federal scrutiny shaped today\u2019s Penn"
+        },
+        {
+          "section": "Sports",
+          "headline": "Five must-know student-athletes at Penn"
+        },
+        {
+          "section": "Overall",
+          "headline": "Twenty-nine must-knows for Penn\u2019s Class of 2029"
+        }
+      ]
+    ]
   ]
 }
