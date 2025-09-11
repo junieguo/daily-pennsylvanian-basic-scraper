@@ -4205,5 +4205,28 @@
         }
       ]
     ]
+  ],
+  "2025-9-11": [
+    [
+      "2025-09-11 01:10PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | A conversation with SAS Dean Mark Trodden"
+        },
+        {
+          "section": "News",
+          "headline": "Penn Faculty Senate chair Kathleen Brown discusses plan to bolster shared governance, faculty voices"
+        },
+        {
+          "section": "Sports",
+          "headline": "Former Penn men\u2019s basketball coach Steve Donahue to take over as St. Joe\u2019s head coach"
+        },
+        {
+          "section": "Overall",
+          "headline": "Newly appointed SAS Dean Mark Trodden discusses plan to \u2018champion excellence,\u2019 promote liberal arts"
+        }
+      ]
+    ]
   ]
 }
