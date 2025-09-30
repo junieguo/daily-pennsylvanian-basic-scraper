@@ -4642,5 +4642,28 @@
         }
       ]
     ]
+  ],
+  "2025-9-30": [
+    [
+      "2025-09-30 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | How Penn Dining reduces waste"
+        },
+        {
+          "section": "News",
+          "headline": "Inside Penn Dining\u2019s plan to achieve \u2018near-zero waste,\u2019 improve sustainability"
+        },
+        {
+          "section": "Sports",
+          "headline": "Penn football falls to nationally ranked Lehigh in the teams\u2019 first matchup since 2021"
+        },
+        {
+          "section": "Overall",
+          "headline": "Michael Mann resigns from role as vice provost for climate science, policy, and action"
+        }
+      ]
+    ]
   ]
 }
