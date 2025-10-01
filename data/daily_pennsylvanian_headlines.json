@@ -4665,5 +4665,28 @@
         }
       ]
     ]
+  ],
+  "2025-10-1": [
+    [
+      "2025-10-01 01:11PM",
+      [
+        {
+          "section": "Featured",
+          "headline": "DP Daybreak | Trump order threatens free speech, Penn experts say"
+        },
+        {
+          "section": "News",
+          "headline": "Penn Hillel hosts Eagles running back A.J. Dillon to discuss Jewish identity, athletic career"
+        },
+        {
+          "section": "Sports",
+          "headline": "Penn football falls to nationally ranked Lehigh in the teams\u2019 first matchup since 2021"
+        },
+        {
+          "section": "Overall",
+          "headline": "Michael Mann resigns from role as vice provost for climate science, policy, and action"
+        }
+      ]
+    ]
   ]
 }
