@@ -5769,5 +5769,28 @@
         }
       ]
     ]
+  ],
+  "2025-11-18": [
+    [
+      "2025-11-18 12:13PM",
+      [
+        {
+          "section": "Featured",
+          "headline": ""
+        },
+        {
+          "section": "News",
+          "headline": ""
+        },
+        {
+          "section": "Sports",
+          "headline": ""
+        },
+        {
+          "section": "Overall",
+          "headline": ""
+        }
+      ]
+    ]
   ]
 }
