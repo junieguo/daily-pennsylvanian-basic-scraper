@@ -5792,5 +5792,28 @@
         }
       ]
     ]
+  ],
+  "2025-11-19": [
+    [
+      "2025-11-19 12:13PM",
+      [
+        {
+          "section": "Featured",
+          "headline": ""
+        },
+        {
+          "section": "News",
+          "headline": ""
+        },
+        {
+          "section": "Sports",
+          "headline": ""
+        },
+        {
+          "section": "Overall",
+          "headline": ""
+        }
+      ]
+    ]
   ]
 }
