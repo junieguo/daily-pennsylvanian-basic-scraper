@@ -13060,5 +13060,28 @@
         }
       ]
     ]
+  ],
+  "2026-10-2": [
+    [
+      "2026-10-02 05:06PM",
+      [
+        {
+          "section": "Featured",
+          "headline": ""
+        },
+        {
+          "section": "News",
+          "headline": ""
+        },
+        {
+          "section": "Sports",
+          "headline": ""
+        },
+        {
+          "section": "Overall",
+          "headline": ""
+        }
+      ]
+    ]
   ]
 }
